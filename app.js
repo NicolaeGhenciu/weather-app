@@ -15,7 +15,7 @@ window.addEventListener('load', () => {
             longitud = posicion.coords.longitude;
             latitud = posicion.coords.latitude;
 
-            var direccion = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitud + '&lon=' + longitud + '&appid=9cac82336b510b71ad8adb4dab5847c3';
+            var direccion = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitud + '&lon=' + longitud + '&appid=';
 
             console.log(direccion);
 
