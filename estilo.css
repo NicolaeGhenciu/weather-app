@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+    background-color: cyan;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#caja1 {
+    background-color: rgba(255, 255, 255, 0.929);
+    border-radius: 10px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 2em 0;
+    width: 300px;
+    box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.25);
+}
